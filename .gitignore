@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.py[cod]
+.DS_Store
+streamlit.log
+.env
+.streamlit/secrets.toml
+artifacts/*.tmp
+coverage.xml
+.coverage
